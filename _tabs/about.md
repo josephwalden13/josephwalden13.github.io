@@ -100,4 +100,6 @@ I am a CompSci graduate from the United Kingdom with interests in software devel
 
 ## Credits
 
-Thank you to the [Jekyll Team ](https://jekyllrb.com/team/) for providing the Jekyll Site Generator.
+[Jekyll Team ](https://jekyllrb.com/team/) for providing the Jekyll Site Generator.
+
+[cotes2020](https://github.com/cotes2020/jekyll-theme-chirpy) for providing the theme Chirpy.
